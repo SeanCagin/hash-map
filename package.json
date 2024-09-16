@@ -1,5 +1,5 @@
 {
-  "name": "hash-map",
+  "name": "@zunaes/hash-map",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {

@@ -1,4 +1,4 @@
-// import { LinkedList } from "quick-ll"'
+// import { LinkedList } from "quick-ll";
 // in browsers the above doesn't work so I use the (somewhat inconvenient)
 // method below. If you are in an environment where it works, I suggest
 // you comment out the first line of this file and comment the
